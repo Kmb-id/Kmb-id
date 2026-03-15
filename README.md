@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 24px;">WELCOME 👐</strong></p>
+  <strong style="font-size: 24px;">👐 WELCOME 👐</strong></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Banner"/>
@@ -29,13 +29,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kmb-id&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kmb-id&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kmb-id&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Kmb-id&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Banner"/>
+</p><p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="50" height="50" style="border-radius: 50%;"/>
 </p>
