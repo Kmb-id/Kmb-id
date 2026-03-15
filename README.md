@@ -39,6 +39,7 @@
 </p><p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <br>
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="50" height="50" style="border-radius: 50%;"/>
+  <i>"Code is like humor. Please don’t apply if you don’t have the core concepts of programming, and you depend upon copying and pasting the code from StackOverflow/saved file."</i>
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/44727800?v=4" width="50" height="50" style="border-radius: 50%;"/>
 </p>
