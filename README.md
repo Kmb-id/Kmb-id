@@ -1,25 +1,25 @@
 <h1 align="center">L4EROOR</h1>
 
 <p align="center">
+  <!-- Facebook -->
   <a href="https://www.facebook.com/L4EROOR" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  <!-- Telegram -->
   <a href="https://t.me/L4EROOR_OFFICIAL" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kmb-id&show_icons=true&theme=bear" width="500" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kmb-id&theme=dark&hide_border=true" width="500" alt="GitHub Streak"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kmb-id&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kmb-id&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kmb-id&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Profile Visitor"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Kmb-id&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <a href="https://api.daily.dev/get?r=Kmb-id" target="_blank">
-    <img src="https://opencollective.com/vuejs/contributors.svg?width=900" alt="Contributors"/>
-  </a>
-</p>
